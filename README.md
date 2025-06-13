@@ -1,4 +1,5 @@
-# staylor012.github.io
+# Computer Programmer
+
 ###  Education
 BS Computer Science
 
