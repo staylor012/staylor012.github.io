@@ -8,5 +8,5 @@ BS Computer Science
 - bullet 2
 
 ### Projects
-- Project 1
+- Project 1 staylor012.github/
 - Project 2
