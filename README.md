@@ -1,10 +1,5 @@
 # Computer Programmer
 
-### About me
-Of course — here’s a more concise version that emphasizes your goal of becoming a developer:
-
----
-
 ### About Me
 
 I’m an aspiring software developer with a Bachelor’s in Computer Science from Cal State San Marcos and hands-on experience in both technology and education. My background includes early-career work in network operations and several years as a substitute teacher and instructional aide, where I learned to communicate clearly, solve problems creatively, and adapt quickly.
