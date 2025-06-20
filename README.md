@@ -8,68 +8,42 @@ Now I’m focused on transitioning into software development. I’m expanding my
 
 ## EDUCATION AND COURSEWORK 
 
- - Computer Science Coursework   
-
-  -- Miramar College, San Diego, CA   
-
-Relevant Coursework:  
-
-Linux 
-
-C++ 
-
-Python Programming 
-
-Java Programming 
-
+ - Computer Science Coursework
+   -  Miramar College, San Diego, CA
+   -  California Stare University, San Marcos
+      - Bachelor of Science, Computer Science    
+- Relevant Coursework:
+   - Languages: C++, Java, Python
+   - OS: Linux
  
-
-Bachelor of Science, Computer Science   
-
-California State University, San Marcos, CA   
-
- 
-
-RELEVANT EXPERIENCE 
-
- 
-
+ ## RELEVANT EXPERIENCE 
 Student, Miramar College, San Diego, CA                                                                  Summer 2024 – Current 
 
-Computer Science Coursework 
+### Computer Science Coursework 
+  - Updating skills within computer science 
 
-Updating skills within computer science 
-
- 
-
-Castle Access, San Diego, CA                                                                          October 2001 – October 2003   
+### Castle Access, San Diego, CA                                                                          October 2001 – October 2003   
 
 Network Operations Specialist  
 
-Monitored and maintained client network stability, performed troubleshooting and provided technical support. 
+  - Monitored and maintained client network stability, performed troubleshooting and provided technical support. 
 
-Resolved network issues promptly, reducing client downtime and improving operational efficiency. 
+  - Resolved network issues promptly, reducing client downtime and improving operational efficiency. 
 
- 
-
-ADDITIONAL EXPERIENCE 
+## ADDITIONAL EXPERIENCE 
 
 Poway Unified School District, Poway, CA                                                           October 2018 – June 2024   
 
 Instructional Assistant I - Special Education 
 
-Supported students with special needs developing tailored instructional materials and learning aids. 
+  - Supported students with special needs developing tailored instructional materials and learning aids. 
 
-Monitored and reinforced students' progress on individualized educational goals, adapting approaches as necessary. 
-
- 
+  - Monitored and reinforced students' progress on individualized educational goals, adapting approaches as necessary. 
 
 Substitute Teacher                                                                                                    April 2014 – October 2018   
 
-Delivered classroom instruction, managed daily operations ensuring continuity in students' learning. 
+  - Delivered classroom instruction, managed daily operations ensuring continuity in students' learning. 
 
-Communicated effectively with students, adapting instructional methods to meet classroom goals. 
+  - Communicated effectively with students, adapting instructional methods to meet classroom goals. 
 
 ### Projects
-- Project 1 staylor012.github/
-- Project 2
