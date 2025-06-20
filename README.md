@@ -8,9 +8,9 @@ Now I’m focused on transitioning into software development. I’m expanding my
 
 ## EDUCATION AND COURSEWORK 
 
--Computer Science Coursework   
+ - Computer Science Coursework   
 
- --Miramar College, San Diego, CA   
+  -- Miramar College, San Diego, CA   
 
 Relevant Coursework:  
 
