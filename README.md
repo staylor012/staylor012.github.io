@@ -6,7 +6,7 @@ I’m an aspiring software developer with a Bachelor’s in Computer Science fro
 
 Now I’m focused on transitioning into software development. I’m expanding my skills in C++, Python, and Java, and I’m especially interested in creating practical tools and solutions that make a difference. When I’m not coding or learning new tech, you’ll probably find me on the golf course or planning my next trip.
 
-## EDUCATION AND COURSEWORK 
+## EDUCATION AND CERTIFICATES
 
  - Computer Science Coursework
    -  Miramar College, San Diego, CA
@@ -15,8 +15,11 @@ Now I’m focused on transitioning into software development. I’m expanding my
 - Relevant Coursework:
    - Languages: C++, Java, Python
    - OS: Linux
- 
- ## RELEVANT EXPERIENCE 
+
+- CompTIA A+ Certification (Earned: September 2025)
+- https://www.credly.com/badges/7c3c01c3-04be-4057-9b4e-c7a175a0772b/public_url
+  
+## RELEVANT EXPERIENCE 
 Student, Miramar College, San Diego, CA                                                                  Summer 2024 – Current 
 
 ### Computer Science Coursework 
