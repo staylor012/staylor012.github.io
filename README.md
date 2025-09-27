@@ -19,11 +19,14 @@ Now I’m focused on transitioning into software development. I’m expanding my
 - CompTIA A+ Certification (Earned: September 2025)
 - https://www.credly.com/badges/7c3c01c3-04be-4057-9b4e-c7a175a0772b/public_url
   
-## RELEVANT EXPERIENCE 
-Student, Miramar College, San Diego, CA                                                                  Summer 2024 – Current 
 
 ### Computer Science Coursework 
   - Updating skills within computer science 
+
+
+## RELEVANT EXPERIENCE 
+
+### Student, Miramar College, San Diego, CA                                                                  Summer 2024 – Current 
 
 ### Castle Access, San Diego, CA                                                                          October 2001 – October 2003   
 
