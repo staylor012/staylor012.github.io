@@ -51,5 +51,3 @@ Substitute Teacher                                                              
   - Delivered classroom instruction, managed daily operations ensuring continuity in students' learning. 
 
   - Communicated effectively with students, adapting instructional methods to meet classroom goals. 
-
-### Projects
