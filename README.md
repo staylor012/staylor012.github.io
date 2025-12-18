@@ -16,8 +16,11 @@ Now I’m focused on transitioning into software development. I’m expanding my
    - Languages: C++, Java, Python
    - OS: Linux
 
-- CompTIA A+ Certification (Earned: September 2025)
+<img width="78" height="78" alt="comptia-a-ce-certification 1 (1)" src="https://github.com/user-attachments/assets/d9f683c6-e2c9-4dbe-80cf-d02a8513bb16" />
+
+CompTIA A+ Certification (Earned: September 2025)
   - https://www.credly.com/badges/7c3c01c3-04be-4057-9b4e-c7a175a0772b/public_url
+  
   
 
 ### Computer Science Coursework 
