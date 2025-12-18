@@ -17,7 +17,7 @@ Now I’m focused on transitioning into software development. I’m expanding my
    - OS: Linux
 
 - CompTIA A+ Certification (Earned: September 2025)
-- https://www.credly.com/badges/7c3c01c3-04be-4057-9b4e-c7a175a0772b/public_url
+  - https://www.credly.com/badges/7c3c01c3-04be-4057-9b4e-c7a175a0772b/public_url
   
 
 ### Computer Science Coursework 
